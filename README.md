@@ -59,7 +59,7 @@ By mastering these mathematical concepts, we build the intuition necessary to wo
 
 ## 🔗 Follow My Journey
 
-I’m sharing my journey daily on [LinkedIn]((https://www.linkedin.com/in/uzma-khatun-88b990334/)) and here on GitHub.  
+I’m sharing my journey daily on [LinkedIn](https://www.linkedin.com/in/uzma-khatun-88b990334/) and here on GitHub.  
 Let’s connect and learn together using the tag **#100DaysOfMachineLearning**!  
 
 📌 GitHub Repo for Day 1–5: [Python for Data Science](https://github.com/UzmaKhatun/Python_Basics-Day1to5)  
