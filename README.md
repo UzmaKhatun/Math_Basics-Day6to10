@@ -1,6 +1,6 @@
-# 📘 100 Days of Machine Learning – Day 6 to Day 10
+# 📘 10 Days of Machine Learning – Day 6 to Day 10
 
-Welcome to **Week 2** of my #100DaysOfMachineLearning challenge!  
+Welcome to **Week 2** of my #10DaysOfMachineLearning challenge!  
 In this phase, I am diving into the **core mathematics** required for understanding and implementing Machine Learning algorithms. These are the building blocks that help us grasp what's going on "under the hood."
 
 ---
@@ -60,7 +60,7 @@ By mastering these mathematical concepts, we build the intuition necessary to wo
 ## 🔗 Follow My Journey
 
 I’m sharing my journey daily on [LinkedIn](https://www.linkedin.com/in/uzma-khatun-88b990334/) and here on GitHub.  
-Let’s connect and learn together using the tag **#100DaysOfMachineLearning**!  
+Let’s connect and learn together using the tag **#10DaysOfMachineLearning**!  
 
 📌 GitHub Repo for Day 1–5: [Python for Data Science](https://github.com/UzmaKhatun/Python_Basics-Day1to5)  
 📌 GitHub Repo for Day 6–10: [Math for ML (this repo)](https://github.com/UzmaKhatun/Math_Basics-Day6to10/tree/main)
